@@ -1,7 +1,24 @@
-# Vue 3 + Vite
+# Pinia Todo App
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+## Learn Pinia (State Management) by building a Todo App
 
-## Recommended IDE Setup
+## Topics covered
 
-- [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.volar)
+### Pinia
+
+- [Installation](https://pinia.esm.dev/getting-started.html)
+- [Defining a store](https://pinia.esm.dev/core-concepts/#defining-a-store)
+- [State](https://pinia.esm.dev/core-concepts/state.html)
+- [Getters](https://pinia.esm.dev/core-concepts/getters.html)
+- [Actions](https://pinia.esm.dev/core-concepts/actions.html)
+
+### Vue.js
+
+- [v-model](https://v3.vuejs.org/guide/forms.html#basic-usage)
+- [v-for](https://v3.vuejs.org/guide/list.html#mapping-an-array-to-elements-with-v-for)
+- [setup function](https://v3.vuejs.org/guide/composition-api-setup.html)
+- [Lifecycle Hooks](https://v3.vuejs.org/guide/composition-api-lifecycle-hooks.html)
+
+### Bonus
+
+- [Local Storage](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage)
