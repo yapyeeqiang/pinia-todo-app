@@ -29,7 +29,7 @@ import { onMounted } from 'vue'
 const store = useTodo()
 
 onMounted(() => {
-    store.todos = JSON.parse(localStorage.getItem('todos'))
+    store.todos = JSON.parse(localStorage.getItem('todos')) ?? []
 })
 </script>
 
